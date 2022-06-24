@@ -23,3 +23,4 @@ This series of challenges covers the very basics of Javascript.
 - [Check whether a string contains another string and concatenate](./JavaScript%20Basics/Check%20whether%20a%20string%20contains%20another%20string%20and%20concatenate.js)
 - [Round a number to 2 decimal places](./JavaScript%20Basics/Round%20a%20number%20to%202%20decimal%20places.js)
 - [Split a number into its digits](./JavaScript%20Basics/Split%20a%20number%20into%20its%20digits.js)
+- [Clear up the chaos behind these strings](./Javascript%20Basics/Clear%20up%20the%20chaos%20behind%20these%20strings.js)
