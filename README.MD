@@ -29,3 +29,7 @@ This series of challenges covers the very basics of Javascript.
 
 - [Get nth element of Array](./JavaScript%20Arrays/Get%20nth%20element%20of%20array.js)
 - [Count number of elements in JavaScript Array](./JavaScript%20Arrays/Count%20number%20of%20elements%20in%20JavaScript%20array.js)
+- [Remove first n elements of an array](./JavaScript%20Arrays/Remove%20first%20n%20elements%20of%20an%20array.js)
+- [Get last n elements of an array](./JavaScript%20Arrays/Get%20last%20n%20elements%20of%20an%20array.js)
+- [Get first n elements of an array](./JavaScript%20Arrays/Get%20first%20n%20elements%20of%20an%20array.js)
+- [Return last n array elements](./JavaScript%20Arrays/Return%20last%20n%20array%20elements.js)
