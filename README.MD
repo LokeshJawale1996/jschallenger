@@ -2,9 +2,9 @@
 
 Elegant Solutions For [jschallenger.com](https://jschallenger.com)
 
-## 1)Javascript Basics
-
 This series of challenges covers the very basics of Javascript.
+
+## 1)Javascript Basics
 
 - [Sum two numbers](./JavaScript%20Basics/Sum%20two%20numbers.js)
 - [Comparison operators, strict equality](./JavaScript%20Basics/Comparison%20operators%2C%20strict%20equality.js)
@@ -25,7 +25,7 @@ This series of challenges covers the very basics of Javascript.
 - [Split a number into its digits](./JavaScript%20Basics/Split%20a%20number%20into%20its%20digits.js)
 - [Clear up the chaos behind these strings](./Javascript%20Basics/Clear%20up%20the%20chaos%20behind%20these%20strings.js)
 
-## 1)Javascript Arrays
+## 2)Javascript Arrays
 
 - [Get nth element of Array](./JavaScript%20Arrays/Get%20nth%20element%20of%20array.js)
 - [Count number of elements in JavaScript Array](./JavaScript%20Arrays/Count%20number%20of%20elements%20in%20JavaScript%20array.js)
@@ -33,3 +33,5 @@ This series of challenges covers the very basics of Javascript.
 - [Get last n elements of an array](./JavaScript%20Arrays/Get%20last%20n%20elements%20of%20an%20array.js)
 - [Get first n elements of an array](./JavaScript%20Arrays/Get%20first%20n%20elements%20of%20an%20array.js)
 - [Return last n array elements](./JavaScript%20Arrays/Return%20last%20n%20array%20elements.js)
+- [Remove a specific array elements](./JavaScript%20Arrays/Remove%20a%20specific%20array%20element.js)
+- [Count number of negative values in array](./JavaScript%20Arrays/Count%20number%20of%20negative%20values%20in%20array.js)
