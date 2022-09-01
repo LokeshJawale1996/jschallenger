@@ -2,7 +2,7 @@
 
 Elegant Solutions For [jschallenger.com](https://jschallenger.com)
 
-## Javascript Basics
+## 1)Javascript Basics
 
 This series of challenges covers the very basics of Javascript.
 
@@ -24,3 +24,8 @@ This series of challenges covers the very basics of Javascript.
 - [Round a number to 2 decimal places](./JavaScript%20Basics/Round%20a%20number%20to%202%20decimal%20places.js)
 - [Split a number into its digits](./JavaScript%20Basics/Split%20a%20number%20into%20its%20digits.js)
 - [Clear up the chaos behind these strings](./Javascript%20Basics/Clear%20up%20the%20chaos%20behind%20these%20strings.js)
+
+## 1)Javascript Arrays
+
+- [Get nth element of Array](./JavaScript%20Arrays/Get%20nth%20element%20of%20array.js)
+- [Count number of elements in JavaScript Array](./JavaScript%20Arrays/Count%20number%20of%20elements%20in%20JavaScript%20array.js)
