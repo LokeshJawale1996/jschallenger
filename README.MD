@@ -37,3 +37,4 @@ This series of challenges covers the very basics of Javascript.
 - [Count number of negative values in array](./JavaScript%20Arrays/Count%20number%20of%20negative%20values%20in%20array.js)
 - [Sort an array of strings alphabetically](./JavaScript%20Arrays/Sort%20an%20array%20of%20strings%20alphabetically.js)
 - [Sort an array of numbers in descending order](./JavaScript%20Arrays/Sort%20an%20array%20of%20numbers%20in%20descending%20order.js)
+- [Check if all array elements are equal](./JavaScript%20Arrays/Check%20if%20all%20array%20elements%20are%20equal.js)
