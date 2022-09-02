@@ -35,3 +35,5 @@ This series of challenges covers the very basics of Javascript.
 - [Return last n array elements](./JavaScript%20Arrays/Return%20last%20n%20array%20elements.js)
 - [Remove a specific array elements](./JavaScript%20Arrays/Remove%20a%20specific%20array%20element.js)
 - [Count number of negative values in array](./JavaScript%20Arrays/Count%20number%20of%20negative%20values%20in%20array.js)
+- [Sort an array of strings alphabetically](./JavaScript%20Arrays/Sort%20an%20array%20of%20strings%20alphabetically.js)
+- [Sort an array of numbers in descending order](./JavaScript%20Arrays/Sort%20an%20array%20of%20numbers%20in%20descending%20order.js)
