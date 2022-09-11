@@ -47,3 +47,6 @@ This series of challenges covers the very basics of Javascript.
 
 - [Check if value is present in Set](./JavaScript%20Sets/Check%20if%20value%20is%20present%20in%20Set.js)
 - [Convert a set to array](./JavaScript%20Sets/Convert%20a%20Set%20to%20Array.js)
+- [Get Union of two sets](./JavaScript%20Sets/Get%20union%20of%20two%20sets.js)
+- [Creating JavaScript Sets](./JavaScript%20Sets/Creating%20Javascript%20Sets.js)
+- [Delete element from set](./JavaScript%20Sets/Delete%20element%20from%20set.js)

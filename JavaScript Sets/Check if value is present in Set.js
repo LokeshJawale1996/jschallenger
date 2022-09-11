@@ -8,4 +8,5 @@ function myFunction(set, v) {
 console.log(myFunction(new Set([1, 2, 3]), 2)); //true
 console.log(myFunction(new Set([123]), 2)); //false
 console.log(myFunction(new Set(["1", "2", "3"]), "2")); //true
-console.log(myFunction(new Set("123"), "2")); //true
+console.log(myFunction2(new Set("123"), "2")); //true
+console.log(myFunction2("a", ["b"], { c: 3 }));
