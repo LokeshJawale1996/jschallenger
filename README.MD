@@ -40,3 +40,5 @@ This series of challenges covers the very basics of Javascript.
 - [Check if all array elements are equal](./JavaScript%20Arrays/Check%20if%20all%20array%20elements%20are%20equal.js)
 - [Calculate the sum of an array element](./JavaScript%20Arrays/Calculate%20the%20sum%20of%20an%20array%20element.js)
 - [Return the average of an array of numbers](./JavaScript%20Arrays/Return%20the%20average%20of%20an%20array%20of%20numbers.js)
+- [Return the longest string from an array of strings](./JavaScript%20Arrays/Return%20the%20longest%20string%20from%20an%20array%20of%20strings.js)
+- [Merge an arbitrary number of arrays](./JavaScript%20Arrays/Merge%20an%20arbitrary%20number%20of%20arrays.js)
