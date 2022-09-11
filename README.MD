@@ -50,3 +50,5 @@ This series of challenges covers the very basics of Javascript.
 - [Get Union of two sets](./JavaScript%20Sets/Get%20union%20of%20two%20sets.js)
 - [Creating JavaScript Sets](./JavaScript%20Sets/Creating%20Javascript%20Sets.js)
 - [Delete element from set](./JavaScript%20Sets/Delete%20element%20from%20set.js)
+- [Get Intersection of two JavaScript Sets](./JavaScript%20Sets/Get%20Intersection%20of%20two%20Javascript%20Sets.js)
+- [Theory](./JavaScript%20Sets/readme.md)
