@@ -38,3 +38,5 @@ This series of challenges covers the very basics of Javascript.
 - [Sort an array of strings alphabetically](./JavaScript%20Arrays/Sort%20an%20array%20of%20strings%20alphabetically.js)
 - [Sort an array of numbers in descending order](./JavaScript%20Arrays/Sort%20an%20array%20of%20numbers%20in%20descending%20order.js)
 - [Check if all array elements are equal](./JavaScript%20Arrays/Check%20if%20all%20array%20elements%20are%20equal.js)
+- [Calculate the sum of an array element](./JavaScript%20Arrays/Calculate%20the%20sum%20of%20an%20array%20element.js)
+- [Return the average of an array of numbers](./JavaScript%20Arrays/Return%20the%20average%20of%20an%20array%20of%20numbers.js)
