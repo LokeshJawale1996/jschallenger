@@ -42,3 +42,8 @@ This series of challenges covers the very basics of Javascript.
 - [Return the average of an array of numbers](./JavaScript%20Arrays/Return%20the%20average%20of%20an%20array%20of%20numbers.js)
 - [Return the longest string from an array of strings](./JavaScript%20Arrays/Return%20the%20longest%20string%20from%20an%20array%20of%20strings.js)
 - [Merge an arbitrary number of arrays](./JavaScript%20Arrays/Merge%20an%20arbitrary%20number%20of%20arrays.js)
+
+## 3)Javascript Sets
+
+- [Check if value is present in Set](./JavaScript%20Sets/Check%20if%20value%20is%20present%20in%20Set.js)
+- [Convert a set to array](./JavaScript%20Sets/Convert%20a%20Set%20to%20Array.js)
