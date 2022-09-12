@@ -44,6 +44,8 @@ This series of challenges covers the very basics of Javascript.
 - [Merge an arbitrary number of arrays](./JavaScript%20Arrays/Merge%20an%20arbitrary%20number%20of%20arrays.js)
 - [Get every nth element of array](./JavaScript%20Arrays/Get%20every%20nth%20element%20of%20array.js)
 - [Sort array by object property](./JavaScript%20Arrays/Sort%20array%20by%20object%20property.js)
+- [ Merge two arrays with duplicate values](./JavaScript%20Arrays/Merge%20two%20arrays%20with%20duplicate%20values.js)
+- [ Sum up all array elements with values greater than](./JavaScript%20Arrays/Sum%20up%20all%20array%20elements%20with%20values%20greater%20than.js)
 
 ## 3)Javascript Sets
 
