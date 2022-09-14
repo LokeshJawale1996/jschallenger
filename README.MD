@@ -2,6 +2,8 @@
 
 Elegant Solutions For [jschallenger.com](https://jschallenger.com)
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=lokeshjawale96.jschallenger)
+
 This series of challenges covers the very basics of Javascript.
 
 ## 1)Javascript Basics
